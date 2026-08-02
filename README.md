@@ -16,6 +16,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 
 ## NES / Famicom
 - [⚠️ Battle City](https://github.com/vgrichina/battlecity)
+- [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
@@ -107,7 +108,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Ocarina of Time (& Wii Virtual Console N64 Emulator)](https://github.com/zeldaret/oot-vc)
 
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
-- [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
 - [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion)
 - [Mario & Luigi: Partners in Time](https://github.com/rainchus/partnersintime-decomp)
