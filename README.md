@@ -350,6 +350,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
 - [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii)
+- [⚠️ Lemmings Paintball](https://github.com/vonhoff/lemball-decomp)
 - [Lock's Quest](https://github.com/redraincatching/locksmith)
 - [LSD: Dream Emulator](https://github.com/FirecatFG/lsddecomp)
 - [Lunar 2: Eternal Blue Complete](https://github.com/Zackmon/lunar2-psx-decomp)
